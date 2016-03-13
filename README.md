@@ -1,0 +1,2 @@
+# Tensor-Flow-Machine-Learning
+TensorFlow is an open source software library for machine learning in various kinds of perceptual and language understanding tasks.[2] It is a second-generation API which is currently used for both research and production by 50[2]:min 0:15/2:17 different teams in dozens[3]:p.2 of commercial Google products, such as speech recognition, Gmail, Google Photos, and Search.[2]:0:26/2:17 These teams had previously used DistBelief, a first-generation API.
